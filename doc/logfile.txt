@@ -1,0 +1,43 @@
+Class documentation
+<---- javadoc command: ---->
+/Users/calliedeas/Downloads/BlueJ 3.1.7/BlueJ.app/Contents/JDK/Home/bin/javadoc
+-author
+-version
+-nodeprecated
+-package
+-noindex
+-notree
+-nohelp
+-nonavbar
+-source
+1.8
+-classpath
+/Users/calliedeas/Downloads/BlueJ 3.1.7/BlueJ.app/Contents/Resources/Java/bluejcore.jar:/Users/calliedeas/Downloads/BlueJ 3.1.7/BlueJ.app/Contents/Resources/Java/junit-4.8.2.jar:/Users/calliedeas/Downloads/BlueJ 3.1.7/BlueJ.app/Contents/Resources/Java/userlib/pi4j-core.jar:/Users/calliedeas/Downloads/BlueJ 3.1.7/BlueJ.app/Contents/Resources/Java/userlib/pi4j-device.jar:/Users/calliedeas/Downloads/BlueJ 3.1.7/BlueJ.app/Contents/Resources/Java/userlib/pi4j-gpio-extension.jar:/Users/calliedeas/Downloads/BlueJ 3.1.7/BlueJ.app/Contents/Resources/Java/userlib/pi4j-service.jar:/Users/calliedeas/Desktop/Programming/zuulGameEx
+-d
+/Users/calliedeas/Desktop/Programming/zuulGameEx/doc
+-encoding
+UTF-8
+-charset
+UTF-8
+-docletpath
+/Users/calliedeas/Downloads/BlueJ 3.1.7/BlueJ.app/Contents/Resources/Java/bjdoclet.jar
+-doclet
+bluej.doclet.doclets.formats.html.HtmlDoclet
+/Users/calliedeas/Desktop/Programming/zuulGameEx/Game.java
+<---- end of javadoc command ---->
+Loading source file /Users/calliedeas/Desktop/Programming/zuulGameEx/Game.java...
+Constructing Javadoc information...
+Standard Doclet version 1.8.0_66
+Building tree for all the packages and classes...
+Generating /Users/calliedeas/Desktop/Programming/zuulGameEx/doc/Game.html...
+/Users/calliedeas/Desktop/Programming/zuulGameEx/Game.java:520: warning - Tag @see: reference not found: Image
+Generating /Users/calliedeas/Desktop/Programming/zuulGameEx/doc/package-frame.html...
+Generating /Users/calliedeas/Desktop/Programming/zuulGameEx/doc/package-summary.html...
+Generating /Users/calliedeas/Desktop/Programming/zuulGameEx/doc/constant-values.html...
+Building index for all the packages and classes...
+Building index for all classes...
+Generating /Users/calliedeas/Desktop/Programming/zuulGameEx/doc/allclasses-frame.html...
+Generating /Users/calliedeas/Desktop/Programming/zuulGameEx/doc/allclasses-noframe.html...
+Generating /Users/calliedeas/Desktop/Programming/zuulGameEx/doc/index.html...
+Generating /Users/calliedeas/Desktop/Programming/zuulGameEx/doc/stylesheet.css...
+1 warning

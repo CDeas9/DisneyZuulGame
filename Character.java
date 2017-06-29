@@ -1,0 +1,37 @@
+import java.util.ArrayList;
+/**
+ * Write a description of class Character here.
+ * 
+ * @author Callie Deas 
+ * @version 11-30-2016
+ */
+public class Character
+{
+    // instance variables - replace the example below with your own
+    private String name;
+    private Item neededItem;
+    private ArrayList<Item> lostItem;
+
+    /**
+     * Constructor for objects of class Character
+     */
+    public Character(String Name)
+    {
+        this.name = Name;
+        lostItem = new ArrayList<>();
+    }
+
+    public String toString(){
+        return name.toString();
+    }
+
+    public String checkItems()
+    {
+        for(Item item : lostItem){
+            return item.getName();
+        }
+
+        return null;
+    }
+
+}

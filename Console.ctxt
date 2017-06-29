@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=g
+comment0.target=Console(Game)
+comment0.text=\n\ Creates\ a\ new\ console\ game.\n\ @param\ g\ a\ Game,\ the\ engine\ that\ actually\ \n\ processes\ all\ the\ input\ and\ \n\ generates\ all\ the\ output.\n
+comment1.params=
+comment1.target=void\ play()
+comment1.text=\n\ \ Main\ play\ routine.\ \ Loops\ until\ end\ of\ play.\n
+comment2.params=
+comment2.target=java.lang.String\ getInput()
+comment2.text=\n\ Prompts\ for\ input\ and\ reads\ one\ line\ from\ the\ console.\n\ @return\ a\ single\ line\ of\ input.\n
+comment3.params=message
+comment3.target=void\ sendOutput(java.lang.String)
+comment3.text=\n\ Prints\ output\ in\ the\ console\ window.\n\ @param\ message\ the\ message\ to\ print.\n\ If\ the\ message\ contains\ embedded\ newlines,\n\ they\ will\ appear\ on\ successive\ lines\ of\ the\ console.\n
+numComments=4
